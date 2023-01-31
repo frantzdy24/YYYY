@@ -7,8 +7,10 @@
            cost=float (input ('34.75 .s'))
            tax=charge.2.61
            tip =charge.6.72
+         
+         
+           Total=cost+tax.tip.44.8
            
-
 print( Charge for foods: %2f' % charge)
 print( 'The tax amount: %2f/' tax)
 print( 'The tip amount: %2f/' tip)
